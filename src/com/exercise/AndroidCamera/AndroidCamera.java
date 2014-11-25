@@ -4,13 +4,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Calendar;
-import java.util.Date;
 import java.util.Locale;
-
-
-
-
-
 import android.app.Activity;
 import android.content.ContentValues;
 import android.content.Context;
